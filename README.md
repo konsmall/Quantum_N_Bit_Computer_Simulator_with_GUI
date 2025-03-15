@@ -1,0 +1,2 @@
+# Quantum_N_Bit_Computer_Simulator_with_GUI
+Operational QBit Computer Simulator with functioning GUI
